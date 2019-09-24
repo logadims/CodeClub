@@ -13,4 +13,8 @@ The DSC now has a new logo, your task is to change the current logo to the new l
 
 [And the source for the new logo can be found here](https://github.com/CodeClubPh/codeclubph/blob/master/src/images/assets/dsclogo.png).
 
+[Our Website Url](http://codeclubph.tech).
+
+[Source Code on Github to make those changes](https://github.com/CodeClubPh/codeclubph).
+
 * Goodluck 🔥
